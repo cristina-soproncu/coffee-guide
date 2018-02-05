@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/contact.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Http/Controllers/ContactController.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/.env</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Http/Controllers/CoffeeController.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/blog.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Http/Controllers/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/showcoffee.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/admin.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Coffee.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/editcoffee.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Trigger.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/app/Http/Controllers/AboutController.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/addcoffee.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/database/migrations/2017_05_18_074139_create_coffees_table.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/about.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Project2/resources/views/logout.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
